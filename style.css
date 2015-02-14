@@ -56,17 +56,15 @@ ul{
 .footer{
   color:white;
   overflow:auto;
-  background-image: url('picture4.jpg');
-  background-repeat:none;
-  background-size:100%;
-  padding: 5% 5% 15% 5%;
+  padding:5% 0 5% 0;
 }
 .footer p{
   float:left;
+  width:80%;
 }
 .footer img{
   width:2em;
-  float:left;
+  float:right;
 }
 img{
   opacity:0.7;
